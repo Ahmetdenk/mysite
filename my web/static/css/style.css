@@ -1,0 +1,20 @@
+h1{
+   color: brown;
+   font-size: xx-large;
+}
+
+p{
+    text-align: center;
+    color: blue;
+    font-size: xx-large;
+}
+
+li{
+    text-align: center;
+    color: antiquewhite;
+}
+body {
+    background-image: url("https://img.pikbest.com/ai/illus_our/20230413/be696a24b927abb52be817511f05aacf.jpg!w700wp");
+    background-size: cover; /* Resmin tüm alanı kaplamasını sağlar */
+    background-repeat: no-repeat; /* Resmin tekrar etmesini engeller */
+  }
